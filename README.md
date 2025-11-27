@@ -1,9 +1,6 @@
-#  EnergiFrance
 
----
-title: "EnergiFrance"
-format: html
----
+
+
 
 #  EnergiFrance
 
@@ -91,7 +88,7 @@ Pour rendre l’expérience intuitive, nous mettrons en place :
 
 ##  Diagramme de Gantt
 
-```{mermaid}
+```mermaid
 gantt
     dateFormat  YYYY-MM-DD
     title Smart Energy Dashboard – Planification du projet
@@ -129,7 +126,7 @@ gantt
     Tests finaux et corrections                      :a16, 2025-12-16, 3d
     Répétition de la présentation                    :a17, 2025-12-19, 2d
     Soutenance finale et dépôt du projet             :a18, 2025-12-22, 1d
----
+
 
 
     
