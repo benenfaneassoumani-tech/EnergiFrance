@@ -1,0 +1,17 @@
+roject:
+  type: website
+  output-dir: ../docs   # output to a docs folder
+
+website:
+  title: "EnergiFrance"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
